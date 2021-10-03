@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mots>
+	<mot id="0">
+		<text>VOITURE</text>
+	</mot>
+	<mot id="1">
+		<text>CHEVAL</text>
+	</mot>
+	<mot id="2">
+		<text>LYCEEN</text>
+	</mot>
+	<mot id="3">
+		<text>TRAMWAY</text>
+	</mot>
+	<mot id="4">
+		<text>ACCIDENT</text>
+	</mot>
+	<mot id="5">
+		<text>COMPTE</text>
+	</mot>
+	<mot id="6">
+		<text>PARTIE</text>
+	</mot>
+	<mot id="7">
+		<text>ADOPTER</text>
+	</mot>
+	<mot id="8">
+		<text>BARIOLE</text>
+	</mot>
+	<mot id="9">
+		<text>BIOTOPE</text>
+	</mot>
+	<mot id="10">
+		<text>CALZONE</text>
+	</mot>
+	<mot id="11">
+		<text>DAMEUSE</text>
+	</mot>
+	<mot id="12">
+		<text>EMPRUNT</text>
+	</mot>
+</mots>

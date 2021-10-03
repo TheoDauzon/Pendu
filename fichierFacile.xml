@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mots>
+	<mot id="0">
+		<text>YES</text>
+	</mot>
+	<mot id="1">
+		<text>EAU</text>
+	</mot>
+	<mot id="2">  
+		<text>OUI</text>
+	</mot>
+	<mot id="3">
+		<text>NON</text>
+	</mot>
+	<mot id="4">
+		<text>LUI</text>
+	</mot>
+	<mot id="5">
+		<text>FIL</text>
+	</mot>
+	<mot id="6">
+		<text>AZUR</text>
+	</mot>
+	<mot id="7">
+		<text>ONZE</text>
+	</mot>
+	<mot id="8">
+		<text>ACIDE</text>
+	</mot>
+	<mot id="9">
+		<text>ACIER</text>
+	</mot>
+	<mot id="10">
+		<text>BEIGE</text>
+	</mot>
+	<mot id="11">
+		<text>FAGOT</text>
+	</mot>
+	<mot id="12">
+		<text>IODLE</text>
+	</mot>
+</mots>

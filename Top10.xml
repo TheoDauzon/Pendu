@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Top10>
+	<Classement id="1">1
+		<Pseudo>Theo</Pseudo>
+		<Difficulte>impossible</Difficulte>
+			<Score>1 281 738 306</Score>
+	</Classement>
+	
+	<Classement id="2">2
+		<Pseudo>Mathys</Pseudo>
+		<Difficulte>impossible</Difficulte>
+		<Score>41 015 625</Score>
+	</Classement>
+	
+	<Classement id="3">3
+		<Pseudo>Tanguy</Pseudo>
+		<Difficulte>difficile</Difficulte>
+		<Score>253 952</Score>	
+	</Classement>
+	
+	<Classement id="4">4
+		<Pseudo>Baptiste</Pseudo>
+		<Difficulte>difficile</Difficulte>
+		<Score>3 968</Score>
+	</Classement>
+				
+	<Classement id="5">5
+		<Pseudo>Rosé</Pseudo>
+		<Difficulte>difficile</Difficulte>
+		<Score>992</Score>
+	</Classement>
+				
+	<Classement id="6">6
+		<Pseudo>Tibo InShape</Pseudo>
+		<Difficulte>moyen</Difficulte>
+		<Score>729</Score>
+	</Classement>		
+				
+	<Classement id="7" >7
+		<Pseudo>Anonymous</Pseudo>
+		<Difficulte>moyen</Difficulte>
+		<Score>243</Score>
+	</Classement>
+				
+	<Classement id="8">8
+		<Pseudo>Thaïs</Pseudo>
+		<Difficulte>moyen</Difficulte>
+		<Score>81</Score>
+	</Classement>
+				
+	<Classement id="9">9
+		<Pseudo>Valentin</Pseudo>
+		<Difficulte>facile</Difficulte>
+		<Score>16</Score>
+	</Classement>
+				
+	<Classement id="10">10
+		<Pseudo>Fredo</Pseudo>
+		<Difficulte>facile</Difficulte>
+		<Score>8</Score>
+	</Classement>
+				
+</Top10>	
